@@ -1,0 +1,44 @@
+{
+  "name": "game-industry-reports",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "index": "node scripts/index-documents.js",
+    "process": "tsx scripts/process-documents.ts",
+    "process:file": "tsx scripts/process-documents.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "@mdx-js/loader": "^3.1.0",
+    "@mdx-js/react": "^3.1.0",
+    "@next/mdx": "^16.0.0",
+    "@tailwindcss/postcss": "^4.1.12",
+    "@types/mdx": "^2.0.13",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.23.11",
+    "lucide-react": "^0.462.0",
+    "next": "^16.0.0",
+    "pdf-parse": "^1.1.1",
+    "react": "^19",
+    "react-dom": "^19",
+    "tailwindcss": "^4.1.12",
+    "typescript": "^5.8.3",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "@types/pdf-parse": "^1.1.4",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/uuid": "^10.0.0",
+    "eslint": "^9.32.0",
+    "eslint-config-next": "^16.0.0",
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.7.1",
+    "tsx": "^4.20.6"
+  }
+}
