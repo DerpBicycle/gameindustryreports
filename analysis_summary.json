@@ -1,0 +1,312 @@
+{
+  "analysis_metadata": {
+    "date": "2025-11-10",
+    "documents_analyzed": 10,
+    "total_documents_in_collection": 429,
+    "categories_covered": 10,
+    "analysis_duration_minutes": 45
+  },
+  "documents_analyzed": [
+    {
+      "id": 1,
+      "category": "Blockchain NFT Web3",
+      "title": "Trends to Watch in 2022 - Games Esports Live Streaming Cloud and the Metaverse",
+      "source": "Newzoo",
+      "year": 2022,
+      "pages": 30,
+      "text_length": 26526,
+      "report_type": "Trend Analysis & Predictions",
+      "primary_focus": ["NFTs", "Metaverse", "Platform Ecosystems", "IP Expansion"],
+      "data_intensity": "medium",
+      "target_audience": ["Publishers", "Investors", "Platform Holders"],
+      "key_metrics": ["3.0Bn gamers globally", "67M Arcane views on Twitch"]
+    },
+    {
+      "id": 2,
+      "category": "Cloud Gaming",
+      "title": "Global Cloud Gaming Report",
+      "source": "Newzoo",
+      "year": 2022,
+      "pages": 43,
+      "text_length": 51682,
+      "report_type": "Market Research Report",
+      "primary_focus": ["Market Sizing", "Forecasts", "Consumer Insights", "Stakeholder Analysis"],
+      "data_intensity": "very_high",
+      "target_audience": ["Executives", "Hardware Manufacturers", "Telecom Companies", "Investors"],
+      "key_metrics": ["31.7M paying users", "$2.4Bn revenue 2022", "3 forecast scenarios"]
+    },
+    {
+      "id": 3,
+      "category": "Esports",
+      "title": "Europe and Esports - High Engagement and Even Higher Potential",
+      "source": "Newzoo Paypal",
+      "year": 2020,
+      "pages": 14,
+      "text_length": 9745,
+      "report_type": "Survey Research Report",
+      "primary_focus": ["Audience Analysis", "Spending Behavior", "Gender Diversity", "COVID Impact"],
+      "data_intensity": "high",
+      "target_audience": ["Esports Organizations", "Brands", "Sponsors"],
+      "key_metrics": ["10,175 survey respondents", "92M European esports audience", "32% female audience"]
+    },
+    {
+      "id": 4,
+      "category": "General Industry",
+      "title": "Game & Network Services Segment",
+      "source": "PlayStation",
+      "year": 2024,
+      "pages": 39,
+      "text_length": 1248,
+      "report_type": "Financial Presentation",
+      "primary_focus": ["Financial Performance", "Strategic Initiatives"],
+      "data_intensity": "very_high",
+      "target_audience": ["Investors", "Financial Analysts"],
+      "key_metrics": ["Limited text extraction - chart-heavy document"],
+      "processing_notes": "Requires enhanced OCR and chart-to-data extraction"
+    },
+    {
+      "id": 5,
+      "category": "HR",
+      "title": "State of the Game Development Industry - Workplace Culture, Mental Health and HR Trends",
+      "source": "80LV",
+      "year": 2023,
+      "pages": 36,
+      "text_length": 58634,
+      "report_type": "Survey Research Report",
+      "primary_focus": ["Workplace Culture", "Mental Health", "Burnout", "Layoffs", "Remote Work"],
+      "data_intensity": "very_high",
+      "target_audience": ["Studio Executives", "HR Professionals", "Industry Workers"],
+      "key_metrics": ["503 respondents from 56 countries", "eNPS -19%", "26% workplace satisfaction", "28% experienced layoffs", "47% fully remote"]
+    },
+    {
+      "id": 6,
+      "category": "Investments",
+      "title": "Q2",
+      "source": "InvestGame",
+      "year": 2024,
+      "pages": 19,
+      "text_length": 11391,
+      "report_type": "Investment Tracking Report",
+      "primary_focus": ["VC Deals", "M&A Activity", "Market Trends", "Fund Rankings"],
+      "data_intensity": "very_high",
+      "target_audience": ["Investors", "VCs", "Startups", "M&A Advisors"],
+      "key_metrics": ["$1B+ across 116 private rounds", "Steam revenue +27% YoY", "54.9K mobile advertisers"]
+    },
+    {
+      "id": 7,
+      "category": "Marketing & Streaming",
+      "title": "report_ugc_ninja_x_apptica",
+      "source": "UGC Ninja x Apptica",
+      "year": 2023,
+      "pages": 22,
+      "text_length": 4423,
+      "report_type": "Practical Marketing Guide",
+      "primary_focus": ["Creative Analytics", "UGC Strategies", "Ad Format Trends", "Best Practices"],
+      "data_intensity": "high",
+      "target_audience": ["Mobile Marketers", "UA Managers", "Creative Teams"],
+      "key_metrics": ["15.2M creatives analyzed", "80% video format", "$6.5B US mobile revenue"]
+    },
+    {
+      "id": 8,
+      "category": "Mobile",
+      "title": "Mobile App Trends (APAC)",
+      "source": "Adjust",
+      "year": 2021,
+      "pages": 30,
+      "text_length": 25062,
+      "report_type": "Regional Performance Report",
+      "primary_focus": ["Install Trends", "Session Analysis", "Retention", "Regional Insights"],
+      "data_intensity": "very_high",
+      "target_audience": ["Mobile Developers", "UA Managers", "APAC Strategists"],
+      "key_metrics": ["910 apps analyzed", "31% install growth", "54% session growth", "5.68% day-30 retention"]
+    },
+    {
+      "id": 9,
+      "category": "Regional Reports",
+      "title": "Paas for Mobile Cloud Gaming",
+      "source": "Niko Partners",
+      "year": 2021,
+      "pages": 23,
+      "text_length": 24793,
+      "report_type": "Technical White Paper",
+      "primary_focus": ["PaaS Technology", "B2B Cloud Gaming", "China Market", "Business Models"],
+      "data_intensity": "medium",
+      "target_audience": ["Developers", "Publishers", "Platform Providers", "Investors"],
+      "key_metrics": ["1.5B Asian gamers", "1.4B mobile gamers", "30% tried cloud gaming in China"]
+    },
+    {
+      "id": 10,
+      "category": "XR Metaverse",
+      "title": "Games Esports Cloud Metaverse Trends",
+      "source": "Newzoo",
+      "year": 2022,
+      "pages": 30,
+      "text_length": 24760,
+      "report_type": "Trend Analysis & Predictions",
+      "primary_focus": ["NFTs", "Metaverse", "Mobile Esports", "Blockchain Integration"],
+      "data_intensity": "medium",
+      "target_audience": ["Industry Strategists", "Investors", "Publishers"],
+      "key_metrics": ["3.0Bn gamers", "60% esports revenue from sponsorship"]
+    }
+  ],
+  "report_type_distribution": {
+    "Market Research Report": 1,
+    "Trend Analysis & Predictions": 2,
+    "Survey Research Report": 2,
+    "Financial Presentation": 1,
+    "Investment Tracking Report": 1,
+    "Practical Marketing Guide": 1,
+    "Regional Performance Report": 1,
+    "Technical White Paper": 1
+  },
+  "common_patterns": {
+    "quantitative_data_emphasis": "80% of documents heavily data-driven",
+    "professional_b2b_focus": "100% target business audiences",
+    "visual_data_presentation": "90% rely heavily on charts and graphs",
+    "temporal_context": "100% include YoY or historical comparisons",
+    "geographic_segmentation": "70% include regional analysis",
+    "methodological_transparency": "60% include methodology sections"
+  },
+  "key_themes": [
+    "Market Growth & Evolution",
+    "Technology Adoption Cycles",
+    "Business Model Innovation",
+    "User Acquisition & Engagement",
+    "Industry Challenges (Workplace, Layoffs)",
+    "Regional Dynamics (APAC dominance)",
+    "Audience Diversity"
+  ],
+  "recommended_taxonomy": {
+    "report_type": [
+      "Market Research",
+      "Financial Reports",
+      "Trend Analysis",
+      "Performance Analytics",
+      "Research Studies",
+      "Practical Guides"
+    ],
+    "content_focus": [
+      "Market & Industry",
+      "Technology & Innovation",
+      "User Behavior & Demographics",
+      "Financial & Investment",
+      "Marketing & UA",
+      "Workplace & HR",
+      "Regional Analysis",
+      "Platform Ecosystem",
+      "Game Development"
+    ],
+    "geographic_scope": [
+      "Global",
+      "Regional",
+      "Country-Specific",
+      "Multi-Regional Comparison"
+    ],
+    "temporal_nature": [
+      "Historical Analysis",
+      "Current State",
+      "Forward-Looking/Predictions",
+      "Periodic Update"
+    ],
+    "data_characteristics": [
+      "Heavily Quantitative",
+      "Mixed Quant/Qual",
+      "Primarily Qualitative",
+      "Primary Research",
+      "Secondary Research"
+    ]
+  },
+  "processing_priorities": {
+    "high_priority": [
+      "Market Research Reports - Highest ROI",
+      "Investment Reports - Critical for funding intelligence",
+      "Survey Reports - Unique primary data"
+    ],
+    "medium_priority": [
+      "Trend Analysis - Strategic value",
+      "Performance Analytics - Benchmarking value"
+    ],
+    "low_priority": [
+      "Practical Guides - Tactical value"
+    ]
+  },
+  "technical_challenges": [
+    {
+      "challenge": "Inconsistent PDF Formats",
+      "mitigation": "Multi-strategy extraction with format-specific handlers"
+    },
+    {
+      "challenge": "Chart-Heavy Documents",
+      "mitigation": "Chart-to-data extraction pipeline with GPT-4V"
+    },
+    {
+      "challenge": "Metric Ambiguity",
+      "mitigation": "Standardized taxonomy with normalization layer"
+    },
+    {
+      "challenge": "Temporal Context",
+      "mitigation": "Extract publication date and resolve relative dates"
+    },
+    {
+      "challenge": "Conflicting Data",
+      "mitigation": "Track all sources separately with reliability scoring"
+    }
+  ],
+  "success_metrics": {
+    "accuracy": {
+      "entity_extraction": ">95% for companies, >90% for metrics",
+      "classification": ">85% for report type",
+      "data_extraction": ">90% for numeric data with context",
+      "ner_f1_score": ">0.85"
+    },
+    "coverage": {
+      "processing_rate": "100% of documents",
+      "data_extraction_rate": ">70% yield structured data",
+      "chart_extraction_rate": ">60% converted",
+      "cross_referencing_rate": ">50% with multiple sources"
+    },
+    "performance": {
+      "processing_speed": "<5 minutes per document",
+      "query_response_time": "<2 seconds",
+      "search_relevance": ">0.8 precision@10"
+    }
+  },
+  "recommended_tech_stack": {
+    "pdf_processing": ["pdf-parse", "pdf2json", "Tesseract.js"],
+    "nlp": ["spaCy", "sentence-transformers", "BERT/RoBERTa", "GPT-4", "BERTopic"],
+    "data_extraction": ["Custom regex", "Camelot", "Tabula", "GPT-4V"],
+    "storage": ["Pinecone/Weaviate", "PostgreSQL", "MongoDB", "Neo4j"],
+    "search": ["Elasticsearch", "Vector search", "Hybrid search"],
+    "api": ["GraphQL", "REST", "WebSocket"]
+  },
+  "next_steps": {
+    "immediate_week_1_2": [
+      "Complete document sampling (DONE)",
+      "Implement enhanced PDF processing",
+      "Build custom NER model",
+      "Create classification model",
+      "Set up vector database"
+    ],
+    "short_term_month_1": [
+      "Process all 429 documents",
+      "Build knowledge graph",
+      "Implement metric extraction",
+      "Create search interface",
+      "Develop quality dashboards"
+    ],
+    "medium_term_months_2_3": [
+      "Fine-tune models",
+      "Cross-document analysis",
+      "Build recommendation engine",
+      "Create insight templates",
+      "Add feedback loops"
+    ],
+    "long_term_months_4_6": [
+      "Predictive analytics",
+      "Market intelligence briefs",
+      "Automated trend monitoring",
+      "API integrations",
+      "Advanced dashboards"
+    ]
+  }
+}

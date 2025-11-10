@@ -9,7 +9,9 @@
     "lint": "next lint",
     "index": "node scripts/index-documents.js",
     "process": "tsx scripts/process-documents.ts",
-    "process:file": "tsx scripts/process-documents.ts"
+    "process:file": "tsx scripts/process-documents.ts",
+    "process:enhanced": "tsx scripts/process-enhanced.ts",
+    "analyze": "tsx scripts/process-enhanced.ts -- --sample 5"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.1",
