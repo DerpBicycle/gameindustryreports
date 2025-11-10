@@ -1,0 +1,955 @@
+Total documents: 429
+Processing documents 101-200 (indices 100-199)
+
+Processing: Gaming Report
+File: Unity - Gaming Report (2023).pdf
+Extracted 63300 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform, Subscription Services
+Companies: Unity, Steam, Xbox, Google, King
+Metrics extracted: 10
+Key findings: 6
+
+Processing: Multiplayer Report
+File: Unity - Multiplayer Report (2022).pdf
+Extracted 49513 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Nintendo, Unity, Xbox, PlayStation
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global Indie Games Market Report
+File: VGI - Global Indie Games Market Report (2024).pdf
+Extracted 11949 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, AI & Machine Learning, User Acquisition, Console Gaming, PC Gaming
+Companies: Valve, Steam, PlayStation, Nexon
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global PC Games Market Report
+File: VGI - Global PC Games Market Report (2023).pdf
+Extracted 12138 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, AI & Machine Learning, User Acquisition, Subscription Services, Console Gaming, PC Gaming
+Companies: EA, Valve, Steam, Xbox
+Metrics extracted: 10
+Key findings: 10
+
+Processing: State of the F2P on Steam
+File: VGI - State of the F2P on Steam (2024).pdf
+Extracted 11581 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Player Behavior, AI & Machine Learning, User Acquisition, Console Gaming, PC Gaming
+Companies: Sony, Valve, Steam, Xbox
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Rise of the Co-Op Games
+File: Video Game Insights - Rise of the Co-Op Games (2024).pdf
+Extracted 6010 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, PC Gaming
+Companies: Valve, Steam
+Metrics extracted: 10
+Key findings: 9
+
+Processing: The Big Game Engine Report
+File: Video Game Insights - The Big Game Engine Report (2025).pdf
+Extracted 12767 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming, PC Gaming
+Companies: Valve, Unity, Unreal, Steam
+Metrics extracted: 10
+Key findings: 10
+
+Processing: The Big Game Engine Report of 2025
+File: Video Game Insights - The Big Game Engine Report of 2025.pdf
+Extracted 12767 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming, PC Gaming
+Companies: Valve, Unity, Unreal, Steam
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Remakes & Remasters Report
+File: Virtuos - Remakes & Remasters Report (2024).pdf
+Extracted 43864 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Console Gaming, PC Gaming
+Companies: Microsoft, Sony, Nintendo, EA, Ubisoft
+Metrics extracted: 8
+Key findings: 10
+
+Processing: State of Play, Spring Edition
+File: XSolla - State of Play, Spring Edition (2024).pdf
+Extracted 77564 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Market Growth, Revenue & Monetization, Player Behavior, Game Development
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: State of Play
+File: Xsolla - State of Play (Winter 2024).pdf
+Extracted 75048 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Market Growth, Revenue & Monetization, Player Behavior, Game Development
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: State of Play Report
+File: Xsolla - State of Play Report (2023).pdf
+Extracted 58218 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Cloud Gaming, VR/AR, Blockchain & NFT, Metaverse, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning
+Companies: Microsoft, NetEase, Activision, Blizzard, Ubisoft
+Metrics extracted: 10
+Key findings: 10
+
+Processing: The Xsolla Report State of Play
+File: Xsolla - The Xsolla Report State of Play (Summer 2024).pdf
+Extracted 74752 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Cloud Gaming, VR/AR, Blockchain & NFT, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: NetEase, Take-Two, Epic Games, Valve, Roblox
+Metrics extracted: 10
+Key findings: 10
+
+Processing: The Future of NPCs
+File: inworld - The Future of NPCs (2023).pdf
+Extracted 59920 characters
+Report Type: Industry Report
+Topics: VR/AR, AI & Machine Learning
+Companies: 
+Metrics extracted: 10
+Key findings: 10
+
+Processing: State of the Game Development Industry - Workplace Culture, Mental Health and HR Trends
+File: 80LV - State of the Game Development Industry - Workplace Culture, Mental Health and HR Trends (2023).pdf
+Extracted 67896 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, VR/AR, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: EA
+Metrics extracted: 10
+Key findings: 10
+
+Processing: The Salary Stats in Gaming
+File: 80lv - The Salary Stats in Gaming (2024).pdf
+Extracted 25519 characters
+Report Type: Financial Report
+Topics: Mobile Gaming, VR/AR, Game Development, AI & Machine Learning, User Acquisition
+Companies: EA
+Metrics extracted: 10
+Key findings: 10
+
+Processing: UK Games Job Summary
+File: Games Jobs Live - UK Games Job Summary (2022).pdf
+Extracted 3926 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, VR/AR, AI & Machine Learning, User Acquisition
+Companies: 
+Metrics extracted: 0
+Key findings: 6
+
+Processing: Developer Satisfaction Survey
+File: IGDA - Developer Satisfaction Survey (2023).pdf
+Extracted 84398 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: 
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Games & Interactive Salary and Satisfaction Survey
+File: Skillsearch - Games & Interactive Salary and Satisfaction Survey (2023).pdf
+Extracted 35347 characters
+Report Type: Survey Report
+Topics: Mobile Gaming, VR/AR, Blockchain & NFT, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Unity
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Video Game Market Update
+File: Aream & Co. - Video Game Market Update (Q1'25).pdf
+Extracted 19562 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Market Growth, Revenue & Monetization, AI & Machine Learning, User Acquisition, Subscription Services, Console Gaming
+Companies: Microsoft, Nintendo, Tencent, NetEase, Activision
+Metrics extracted: 10
+Key findings: 10
+
+=== Saving progress: 20 processed, 0 failed ===
+Progress saved!
+
+Processing: Console and PC Investment Review
+File: DDM - Console and PC Investment Review (September 2024).pdf
+Extracted 2396 characters
+Report Type: Investment Report
+Topics: VR/AR, Blockchain & NFT, AI & Machine Learning, Console Gaming
+Companies: Krafton
+Metrics extracted: 0
+Key findings: 10
+
+Processing: Game Developers Investment Report
+File: DDM - Game Developers Investment Report (March 2025).pdf
+Extracted 323 characters
+Report Type: Industry Report
+Topics: 
+Companies: 
+Metrics extracted: 0
+Key findings: 0
+
+Processing: Games Investment Review
+File: DDM - Games Investment Review (Q1 2024).pdf
+Extracted 2587 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Blockchain & NFT, AI & Machine Learning, Console Gaming
+Companies: 
+Metrics extracted: 0
+Key findings: 10
+
+Processing: Games Investment Review
+File: DDM - Games Investment Review (Q2 2023).pdf
+Extracted 2392 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Blockchain & NFT, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: 
+Metrics extracted: 0
+Key findings: 10
+
+Processing: Games Investment Review
+File: DDM - Games Investment Review (Q3 2023).pdf
+Extracted 3210 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Blockchain & NFT, Metaverse, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: 
+Metrics extracted: 0
+Key findings: 10
+
+Processing: Games Investment Review
+File: DDM - Games Investment Review (Q4 2023).pdf
+Extracted 2890 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Revenue & Monetization, AI & Machine Learning, Console Gaming
+Companies: 
+Metrics extracted: 0
+Key findings: 10
+
+Processing: Mobile Games Annual Investment Report
+File: DDM - Mobile Games Annual Investment Report (June 2024).pdf
+Extracted 2063 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Blockchain & NFT, AI & Machine Learning
+Companies: 
+Metrics extracted: 0
+Key findings: 10
+
+Processing: Project & Studio Financing Snapshot
+File: DDM - Project & Studio Financing Snapshot (July 2024).pdf
+Extracted 34 characters
+Report Type: Industry Report
+Topics: 
+Companies: 
+Metrics extracted: 0
+Key findings: 0
+
+Processing: Global Gaming Report
+File: Drake Star - Global Gaming Report (2023).pdf
+Extracted 35712 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global Gaming Report
+File: Drake Star - Global Gaming Report (2024).pdf
+Extracted 33274 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global Gaming Report
+File: Drake Star - Global Gaming Report (Q1 2025).pdf
+Extracted 31912 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Sony, Nintendo, Tencent, NetEase, Electronic Arts
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global Gaming Report
+File: Drake Star - Global Gaming Report (Q2 2023).pdf
+Extracted 29723 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global Gaming Report
+File: Drake Star - Global Gaming Report (Q2 2024).pdf
+Extracted 29303 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Sony, Nintendo, Tencent, NetEase, Electronic Arts
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global Gaming Report
+File: Drake Star - Global Gaming Report (Q3 2023).pdf
+Extracted 32485 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global Gaming Report
+File: Drake Star - Global Gaming Report (Q3 2024).pdf
+Extracted 29324 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global MSP Report
+File: Drake Star - Global MSP Report (Q4 2024).pdf
+Extracted 12028 characters
+Report Type: Investment Report
+Topics: VR/AR, Market Growth, Game Development, AI & Machine Learning, User Acquisition
+Companies: 
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming IPOs Through the Years
+File: InvestGame & GDEV - Gaming IPOs Through the Years (2024).pdf
+Extracted 3516 characters
+Report Type: Industry Report
+Topics: Esports, VR/AR, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: 
+Metrics extracted: 2
+Key findings: 10
+
+Processing: Web3 Gaming Investments
+File: InvestGame & GDEV - Web3 Gaming Investments (2020-2024).pdf
+Extracted 1832 characters
+Report Type: Investment Report
+Topics: VR/AR, Blockchain & NFT, AI & Machine Learning, User Acquisition
+Companies: 
+Metrics extracted: 4
+Key findings: 9
+
+Processing: Examining a Decade of Gaming Startup Exit Paths
+File: InvestGame - Examining a Decade of Gaming Startup Exit Paths (2024).pdf
+Extracted 3401 characters
+Report Type: Investment Report
+Topics: VR/AR, Revenue & Monetization, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Supercell, King
+Metrics extracted: 3
+Key findings: 10
+
+Processing: FY
+File: InvestGame - FY  (2020).pdf
+Extracted 25703 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Microsoft, Sony, Tencent, NetEase, Activision
+Metrics extracted: 10
+Key findings: 10
+
+=== Saving progress: 40 processed, 0 failed ===
+Progress saved!
+
+Processing: FY
+File: InvestGame - FY (2020-2022).pdf
+Extracted 23164 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Microsoft, Sony, Tencent, EA, Unity
+Metrics extracted: 10
+Key findings: 10
+
+Processing: FY
+File: InvestGame - FY (2021).pdf
+Extracted 34080 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform
+Companies: Microsoft, Sony, Tencent, NetEase, Activision
+Metrics extracted: 10
+Key findings: 10
+
+Processing: FY
+File: InvestGame - FY (2023).pdf
+Extracted 23587 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: H1
+File: InvestGame - H1 (2021).pdf
+Extracted 20892 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Microsoft, Sony, Tencent, Electronic Arts, EA
+Metrics extracted: 10
+Key findings: 10
+
+Processing: H1
+File: InvestGame - H1 (2022).pdf
+Extracted 32870 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Microsoft, Sony, Nintendo, Tencent, Activision
+Metrics extracted: 10
+Key findings: 10
+
+Processing: H1
+File: InvestGame - H1 (2023).pdf
+Extracted 11680 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform
+Companies: Activision, Blizzard, Epic Games, Rovio
+Metrics extracted: 6
+Key findings: 10
+
+Processing: Q1
+File: InvestGame - Q1 (2021).pdf
+Extracted 23065 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Microsoft, Sony, Tencent, NetEase, Electronic Arts
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Q1
+File: InvestGame - Q1 (2022).pdf
+Extracted 30380 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Market Growth, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Microsoft, Sony, Tencent, Activision, Blizzard
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Q1
+File: InvestGame - Q1 (2023).pdf
+Extracted 7553 characters
+Report Type: Investment Report
+Topics: Esports, VR/AR, Blockchain & NFT, AI & Machine Learning, User Acquisition, Cross-Platform
+Companies: Take-Two, Sega, Rovio
+Metrics extracted: 5
+Key findings: 10
+
+Processing: Q1
+File: InvestGame - Q1 (2024).pdf
+Extracted 30493 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: Sony, Tencent, NetEase, Electronic Arts, Take-Two
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Q1-Q3
+File: InvestGame - Q1-Q3 (2020).pdf
+Extracted 11363 characters
+Report Type: Investment Report
+Topics: Cloud Gaming, Esports, VR/AR, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Microsoft, Sony, Tencent, Activision, Blizzard
+Metrics extracted: 8
+Key findings: 10
+
+Processing: Q1-Q3
+File: InvestGame - Q1-Q3 (2022).pdf
+Extracted 40546 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Q2
+File: InvestGame - Q2 (2024).pdf
+Extracted 11547 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Nintendo, Unity, Steam, Xbox
+Metrics extracted: 2
+Key findings: 10
+
+Processing: Q3
+File: InvestGame - Q3 (2023).pdf
+Extracted 13683 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Microsoft, Tencent, NetEase, Activision, Blizzard
+Metrics extracted: 6
+Key findings: 10
+
+Processing: Gaming Industry Report
+File: Konvoy - Gaming Industry Report (Q1 2023).pdf
+Extracted 17839 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Microsoft, Sony, Nintendo, Ubisoft, Epic Games
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming Industry Report
+File: Konvoy - Gaming Industry Report (Q1 2024).pdf
+Extracted 22939 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Esports, VR/AR, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Subscription Services
+Companies: EA, Ubisoft, Epic Games, Roblox, Unity
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming Industry Report
+File: Konvoy - Gaming Industry Report (Q2 2023).pdf
+Extracted 19013 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: Microsoft, Sony, Nintendo, Activision, Blizzard
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming Industry Report
+File: Konvoy - Gaming Industry Report (Q2 2024).pdf
+Extracted 25308 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: EA, Ubisoft, Epic Games, Roblox, Unity
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming Industry Report
+File: Konvoy - Gaming Industry Report (Q3 2024).pdf
+Extracted 26012 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Subscription Services
+Companies: EA, Ubisoft, Epic Games, Roblox, Unity
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming Industry Report
+File: Konvoy - Gaming Industry Report (Q4 2024).pdf
+Extracted 22501 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Microsoft, Sony, Nintendo, Ubisoft, Epic Games
+Metrics extracted: 10
+Key findings: 10
+
+=== Saving progress: 60 processed, 0 failed ===
+Progress saved!
+
+Processing: Gaming Public Comp Sheet and Valuation Guide
+File: PitchBook - Gaming Public Comp Sheet and Valuation Guide (Q2 2024).pdf
+Extracted 35591 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming Report
+File: PitchBook - Gaming Report (Q1 2024).pdf
+Extracted 12896 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: Microsoft, Sony, NetEase, Epic Games, Roblox
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming Report
+File: PitchBook - Gaming Report (Q2 2023).pdf
+Extracted 10889 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Game Development, AI & Machine Learning, User Acquisition
+Companies: Sony, Epic Games, Apple, Sega, Krafton
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming Report
+File: PitchBook - Gaming Report (Q3 2023).pdf
+Extracted 11627 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Blockchain & NFT, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: Epic Games, Unity, Apple, Google, Niantic
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Gaming Report
+File: PitchBook - Gaming Report (Q4 2023).pdf
+Extracted 12229 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Cloud Gaming, VR/AR, Blockchain & NFT, Metaverse, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: Microsoft, Sony, Tencent, Rockstar, Epic Games
+Metrics extracted: 10
+Key findings: 10
+
+Processing: In-Game Advertising Report
+File: Anzu & Lumen - In-Game Advertising Report (2023).pdf
+Extracted 23141 characters
+Report Type: Industry Report
+Topics: VR/AR, Metaverse, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform, Console Gaming
+Companies: Facebook
+Metrics extracted: 10
+Key findings: 10
+
+Processing: AppsFlyer_and_TikTok_Best_Practices_Playbook
+File: AppsFlyer_and_TikTok_Best_Practices_Playbook.pdf
+Extracted 58229 characters
+Report Type: Industry Report
+Topics: VR/AR, Player Behavior, AI & Machine Learning, User Acquisition
+Companies: Apple, King
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Ad Intelligence Overview
+File: Apptica - Ad Intelligence Overview (2022).pdf
+Extracted 8435 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, VR/AR, AI & Machine Learning, User Acquisition
+Companies: Google, Meta, King
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Audio Ad Engagement
+File: AudioMob - Audio Ad Engagement (2021).pdf
+Extracted 9939 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: Sony
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Games Marketing Insights
+File: Facebook - Games Marketing Insights.pdf
+Extracted 34469 characters
+Report Type: Survey Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Cross-Platform
+Companies: Apple, Facebook
+Metrics extracted: 10
+Key findings: 10
+
+Processing: The Global State of Game Publishing & Marketing
+File: Game Publishing & Marketing Summit - The Global State of Game Publishing & Marketing (2025).pdf
+Extracted 111813 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning
+Companies: Microsoft, Sony, Nintendo, Tencent, Activision
+Metrics extracted: 10
+Key findings: 10
+
+Processing: State of Performance Marketing for PC & Console
+File: Gamesight - State of Performance Marketing for PC & Console (2024).pdf
+Extracted 39234 characters
+Report Type: Industry Report
+Topics: VR/AR, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: EA, Unity, PlayStation, Google, Meta
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Cutting-Edge Attribution Strategies in Mobile Gaming
+File: Kochava & TikTok for Business - Cutting-Edge Attribution Strategies in Mobile Gaming (2025).pdf
+Extracted 31879 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Player Behavior, AI & Machine Learning, User Acquisition, Subscription Services, Console Gaming
+Companies: Apple, Google, Meta, Facebook, King
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Top 500 Games We Watched
+File: Lurkit - Top 500 Games We Watched (Q1'24).pdf
+Extracted 156341 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, Cloud Gaming, VR/AR, AI & Machine Learning, User Acquisition, Console Gaming, PC Gaming
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Top 500 Stream Report
+File: Lurkit - Top 500 Stream Report (2023).pdf
+Extracted 152594 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, Cloud Gaming, VR/AR, Game Development, AI & Machine Learning, User Acquisition, Console Gaming, PC Gaming
+Companies: Microsoft, Sony, Nintendo, Tencent, NetEase
+Metrics extracted: 10
+Key findings: 10
+
+Processing: The Stats of Games Media Buying - United States Spotlight
+File: Mintegral - The Stats of Games Media Buying - United States Spotlight (H1'24).pdf
+Extracted 6457 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, AI & Machine Learning, User Acquisition
+Companies: Google
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Moloco: Casual vs Core Post-IDFA Ad Pricing
+File: Moloco: Casual vs Core Post-IDFA Ad Pricing.pdf
+Extracted 11228 characters
+Report Type: Market Forecast
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: Apple
+Metrics extracted: 10
+Key findings: 10
+
+Processing: The New Destination to Reach Global Gamers (2021)_compressed
+File: Newzoo & TikTok - The New Destination to Reach Global Gamers (2021)_compressed.pdf
+Extracted 66200 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Esports, VR/AR, Metaverse, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: Tencent, Blizzard, Roblox, Facebook, King
+Metrics extracted: 10
+Key findings: 5
+
+Processing: The Ultimate Game hype tracking guide
+File: Newzoo - The Ultimate Game hype tracking guide (2024).pdf
+Extracted 22872 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Subscription Services, Console Gaming, PC Gaming
+Companies: Steam, Xbox, Facebook
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Misleading (Non-Core) Gameplay Ads Research
+File: Nexters - Misleading (Non-Core) Gameplay Ads Research (2023).pdf
+Extracted 5428 characters
+Report Type: Survey Report
+Topics: VR/AR, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: 
+Metrics extracted: 10
+Key findings: 10
+
+=== Saving progress: 80 processed, 0 failed ===
+Progress saved!
+
+Processing: Q1-2023-Insights-into-Global-Mobile-Game-Marketing-Trends_Social_Peta
+File: Q1-2023-Insights-into-Global-Mobile-Game-Marketing-Trends_Social_Peta.pdf
+Extracted 42021 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Esports, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: Unity, Google, Facebook, King
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Q2-2023-Insights-into-Marketing-Trends-of-Global-Mobile-Games
+File: Q2-2023-Insights-into-Marketing-Trends-of-Global-Mobile-Games.pdf
+Extracted 36923 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Esports, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: Unity, Unreal, Google, Meta, Facebook
+Metrics extracted: 10
+Key findings: 10
+
+Processing: The State of AAA Game Advertising
+File: Sensor Tower - The State of AAA Game Advertising.pdf
+Extracted 43011 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, Esports, VR/AR, Metaverse, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: Microsoft, Sony, Nintendo, Tencent, Activision
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Marketing Insights into Global Casual & Puzzle Games
+File: SocialPeta & SuperSonic - Marketing Insights into Global Casual & Puzzle Games (Q1 2024).pdf
+Extracted 28160 characters
+Report Type: Market Forecast
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition
+Companies: Unity, Google, Meta, Facebook, King
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Advertising & Marketing
+File: SocialPeta - Advertising & Marketing (H1 2022).pdf
+Extracted 156223 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning
+Companies: Microsoft, Tencent, NetEase, Activision, Blizzard
+Metrics extracted: 10
+Key findings: 6
+
+Processing: Global Mobile Game & App (Non-Game) Marketing White Paper
+File: SocialPeta - Global Mobile Game & App (Non-Game) Marketing White Paper (2022).pdf
+Extracted 152261 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning
+Companies: Microsoft, Tencent, NetEase, Activision, Blizzard
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Global Mobile Games Marketing Trends White Paper
+File: SocialPeta - Global Mobile Games Marketing Trends White Paper (2023).pdf
+Extracted 76834 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning, User Acquisition, Subscription Services
+Companies: Tencent, Activision, Blizzard, Roblox, Unity
+Metrics extracted: 10
+Key findings: 10
+
+Processing: H1 Global Mobile App Marketing Whitepaper
+File: SocialPeta - H1 Global Mobile App Marketing Whitepaper (2021).pdf
+Extracted 62401 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, VR/AR, Metaverse, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Tencent, Roblox, Unity, Apple, Google
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Insights Into Global Mobile Game Marketing Trends
+File: SocialPeta - Insights Into Global Mobile Game Marketing Trends (Q1 2023).pdf
+Extracted 42021 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Esports, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: Unity, Google, Facebook, King
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Insights into Marketing Trends of Global Mobile Apps
+File: SocialPeta - Insights into Marketing Trends of Global Mobile Apps (H1 2023).pdf
+Extracted 41568 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Subscription Services
+Companies: Google, Facebook
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Marketing Insights
+File: SocialPeta - Marketing Insights (Global Mobile Games & Minigames - 2024).pdf
+Extracted 15432 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: Unity, Meta, Facebook, Nexon
+Metrics extracted: 10
+Key findings: 10
+
+Processing: SocialPeta-2022-global-mobile-game-app-marketing-white-paper-final
+File: SocialPeta-2022-global-mobile-game-app-marketing-white-paper-final.pdf
+Extracted 152261 characters
+Report Type: Investment Report
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning
+Companies: Microsoft, Tencent, NetEase, Activision, Blizzard
+Metrics extracted: 10
+Key findings: 10
+
+Processing: SocialPeta-H1-2022-Global-Mobile-Game-Marketing-White-Paper_En
+File: SocialPeta-H1-2022-Global-Mobile-Game-Marketing-White-Paper_En.pdf
+Extracted 94755 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, Esports, VR/AR, Blockchain & NFT, Metaverse, Market Growth, Revenue & Monetization, Player Behavior, Game Development, AI & Machine Learning
+Companies: Tencent, NetEase, Activision, Blizzard, Electronic Arts
+Metrics extracted: 10
+Key findings: 6
+
+Processing: SocialPeta-H1-2023-Insights-into-Marketing-Trends-of-Global-Mobile-Apps
+File: SocialPeta-H1-2023-Insights-into-Marketing-Trends-of-Global-Mobile-Apps.pdf
+Extracted 41568 characters
+Report Type: Market Research Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Subscription Services
+Companies: Google, Facebook
+Metrics extracted: 10
+Key findings: 10
+
+Processing: SocialPeta-Insights-into-Marketing-Trends-of-Global-Mobile-Games
+File: SocialPeta-Insights-into-Marketing-Trends-of-Global-Mobile-Games.pdf
+Extracted 33921 characters
+Report Type: Market Forecast
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Tencent, Activision, Unity, Google, Meta
+Metrics extracted: 10
+Key findings: 10
+
+Processing: SocialPeta-Q3-2022-Mobile-Game-Marketing
+File: SocialPeta-Q3-2022-Mobile-Game-Marketing.pdf
+Extracted 78544 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Game Development, AI & Machine Learning, User Acquisition
+Companies: Google, Meta, Facebook
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Streaming Market
+File: Stream Elements & Arsenal.gg - Streaming Market (2020).pdf
+Extracted 315 characters
+Report Type: Industry Report
+Topics: VR/AR, User Acquisition
+Companies: Facebook
+Metrics extracted: 0
+Key findings: 2
+
+Processing: Live Streaming Trends Reports
+File: Stream Hatchet - Live Streaming Trends Reports (Q2'24).pdf
+Extracted 14667 characters
+Report Type: Investment Report
+Topics: Cloud Gaming, Esports, VR/AR, Player Behavior, AI & Machine Learning, User Acquisition, PC Gaming
+Companies: Steam, Facebook
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Live-Streaming Trends Report
+File: Stream Hatchet - Live-Streaming Trends Report (Q1'24).pdf
+Extracted 12462 characters
+Report Type: Market Forecast
+Topics: Mobile Gaming, Cloud Gaming, Esports, VR/AR, AI & Machine Learning, User Acquisition, PC Gaming
+Companies: Steam, Facebook
+Metrics extracted: 10
+Key findings: 10
+
+Processing: Save Point 2024
+File: Stream Hatchet - Save Point 2024 (Streaming Trends in 2024).pdf
+Extracted 27975 characters
+Report Type: Industry Report
+Topics: Mobile Gaming, Esports, VR/AR, Market Growth, Game Development, AI & Machine Learning, User Acquisition, Console Gaming
+Companies: Blizzard, Ubisoft, Roblox, Amazon, Meta
+Metrics extracted: 10
+Key findings: 10
+
+=== Saving progress: 100 processed, 0 failed ===
+Progress saved!
+
+=== Final save: 100 processed, 0 failed ===
+
+Processing complete!
+Successfully processed: 100
+Failed: 0
+
+=== SAMPLE RESULTS ===
+
+--- Document 101: Gaming Report ---
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Player Behavior
+Key Findings: 6
+Summary (first 200 chars): INTRODUCTION In a year marked by shifting economic headwinds, creativity and innovation in the gaming industry are still going strong. Developers are shipping games quickly and maintaining their playe...
+
+--- Document 102: Multiplayer Report ---
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Revenue & Monetization, Player Behavior, Game Development
+Key Findings: 10
+Summary (first 200 chars): Introduction ......................................................................................................................................... 3 What are multiplayer gamers playing? .............
+
+--- Document 103: Global Indie Games Market Report ---
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, AI & Machine Learning
+Key Findings: 10
+Summary (first 200 chars): Overview of the VGI Global Indie Market Report 2024 2 Steam Indie Games Market Today 3 Notes: Data as of 30th Sep 2024 Full game revenue on this and other slides includes only revenue from copies sold...
+
+--- Document 104: Global PC Games Market Report ---
+Report Type: Market Research Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, AI & Machine Learning
+Key Findings: 10
+Summary (first 200 chars): overview of the method is highlighted in the section bel ow Revenue EstimateEstimated units sold multiplied by the price at the time. This is gross revenue, including the Steam cut, but adjusted for l...
+
+--- Document 105: State of the F2P on Steam ---
+Report Type: Investment Report
+Topics: Mobile Gaming, VR/AR, Market Growth, Revenue & Monetization, Player Behavior
+Key Findings: 10
+Summary (first 200 chars): OVERVIEW OF THE REPORT • This report focuses solely on the Free to Play games available on Steam • All of the data presented is gathered using the Video Game Insights data intelligence platform • Most...
