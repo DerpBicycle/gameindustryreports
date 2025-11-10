@@ -9,8 +9,9 @@
     "lint": "next lint",
     "index": "tsx scripts/index-documents-supabase.ts",
     "migrate": "tsx scripts/migrate-to-supabase.ts",
-    "process": "tsx scripts/process-documents.ts",
-    "process:enhanced": "tsx scripts/process-enhanced.ts",
+    "process": "tsx scripts/batch-process.ts",
+    "process:all": "tsx scripts/batch-process.ts -- --all",
+    "process:first-50": "tsx scripts/process-first-50.ts",
     "analyze": "tsx scripts/process-enhanced.ts -- --sample 5"
   },
   "dependencies": {
