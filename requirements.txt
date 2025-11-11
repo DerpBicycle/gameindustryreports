@@ -1,0 +1,5 @@
+# Requirements for PDF to Markdown conversion
+# Install with: pip install -r requirements.txt
+
+markitdown[all]>=0.0.1
+cffi>=1.15.0

@@ -1,4 +1,4 @@
- OS generated files #
+# OS generated files #
 ######################
 .DS_Store
 .DS_Store?
@@ -7,3 +7,18 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Python #
+##########
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Optional: Uncomment to ignore generated markdown files from PDFs
+# *.md
+# !README.md

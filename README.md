@@ -32,6 +32,48 @@ Reports should be in PDF format, preferably:
 
 ---
 
+## 📄 PDF to Markdown Conversion
+
+This repository includes a tool to convert all PDF reports to Markdown format for easier text analysis and processing.
+
+### Setup
+
+1. **Install Python dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Convert all PDFs to Markdown:**
+   ```bash
+   python convert_pdfs_to_markdown.py
+   ```
+
+### Usage Options
+
+- **Convert all PDFs:**
+  ```bash
+  python convert_pdfs_to_markdown.py
+  ```
+
+- **Force reconversion (overwrite existing markdown files):**
+  ```bash
+  python convert_pdfs_to_markdown.py --force
+  ```
+
+- **Convert a single PDF:**
+  ```bash
+  python convert_pdfs_to_markdown.py --single "path/to/report.pdf"
+  ```
+
+- **Specify a custom path:**
+  ```bash
+  python convert_pdfs_to_markdown.py --path "./Regional Reports"
+  ```
+
+The script will create `.md` files alongside each PDF, preserving the directory structure.
+
+---
+
 ## ✅ TO DO List
 
 - [ ] Rename files to adhere to naming convention
