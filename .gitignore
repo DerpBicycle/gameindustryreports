@@ -18,7 +18,9 @@ __pycache__/
 venv/
 ENV/
 env/
+*.log
 
 # Optional: Uncomment to ignore generated markdown files from PDFs
 # *.md
 # !README.md
+# !CATALOG.md

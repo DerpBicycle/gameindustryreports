@@ -34,7 +34,15 @@ Reports should be in PDF format, preferably:
 
 ## 📄 PDF to Markdown Conversion
 
-This repository includes a tool to convert all PDF reports to Markdown format for easier text analysis and processing.
+This repository includes powerful tools to convert all PDF reports to Markdown format and generate a searchable catalog of all reports.
+
+### Features
+
+- **Parallel Processing**: Convert multiple PDFs simultaneously for faster processing
+- **Smart Caching**: Automatically skips already-converted files
+- **Error Handling**: Comprehensive logging and error reporting
+- **Catalog Generation**: Creates a searchable index of all reports with metadata
+- **GitHub Actions**: Automated conversion when new PDFs are added
 
 ### Setup
 
@@ -43,21 +51,28 @@ This repository includes a tool to convert all PDF reports to Markdown format fo
    pip install -r requirements.txt
    ```
 
-2. **Convert all PDFs to Markdown:**
-   ```bash
-   python convert_pdfs_to_markdown.py
-   ```
+### Usage
 
-### Usage Options
+#### Convert PDFs to Markdown
 
-- **Convert all PDFs:**
+- **Basic conversion (single-threaded):**
   ```bash
   python convert_pdfs_to_markdown.py
   ```
 
+- **Fast parallel conversion (4 workers):**
+  ```bash
+  python convert_pdfs_to_markdown.py --workers 4
+  ```
+
+- **Use all available CPU cores:**
+  ```bash
+  python convert_pdfs_to_markdown.py --workers -1
+  ```
+
 - **Force reconversion (overwrite existing markdown files):**
   ```bash
-  python convert_pdfs_to_markdown.py --force
+  python convert_pdfs_to_markdown.py --force --workers 4
   ```
 
 - **Convert a single PDF:**
@@ -65,12 +80,33 @@ This repository includes a tool to convert all PDF reports to Markdown format fo
   python convert_pdfs_to_markdown.py --single "path/to/report.pdf"
   ```
 
-- **Specify a custom path:**
+- **Quiet mode (less verbose output):**
   ```bash
-  python convert_pdfs_to_markdown.py --path "./Regional Reports"
+  python convert_pdfs_to_markdown.py --workers 4 --quiet
   ```
 
-The script will create `.md` files alongside each PDF, preserving the directory structure.
+#### Generate Report Catalog
+
+Create a comprehensive catalog of all reports with metadata:
+
+```bash
+python generate_catalog.py
+```
+
+This generates `CATALOG.md` with:
+- Statistics on all reports (count, total size, categories)
+- Organized table of contents by category
+- Searchable tables with author, title, year, size
+- Direct links to PDFs and markdown versions
+
+### Automation
+
+The repository includes a GitHub Actions workflow that automatically:
+- Converts new PDFs to Markdown when they're added
+- Updates the catalog with new reports
+- Commits changes back to the repository
+
+The workflow runs automatically when PDFs are pushed, or can be triggered manually from the Actions tab.
 
 ---
 
